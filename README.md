@@ -41,5 +41,5 @@
 
  <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>GRACIAS POR VISITARME</p>
+        <p>THANK YOU FOR VISITING ME</p>
     </div>
